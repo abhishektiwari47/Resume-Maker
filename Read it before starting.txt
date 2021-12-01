@@ -1,0 +1,37 @@
+When you will try to run this site the site will not be able to connect to a local server so for that you need to download XAMPP server.
+This will provide you a local host server there you have to create a database of name "tutorials" and table of name "record" and then you have to create 31 columns for storing data like name, email,etc.
+Actually in the code of this website the data from user form is sent to the last row of the database and then it is retreive from the database on the Resume page.
+There you have to add these 31 columns...
+
+-------------------------------
+id int 100 ..... AUTO_INCREMENT
+name varchar 20 
+position  varchar 20 
+email varchar 20 
+mobile varchar 10 
+address varchar 50 
+linkedin  varchar 60 
+github  varchar 60 
+ex  varchar 400 
+exname varchar 20 
+ex2 varchar 400 
+ex2name varchar 20 
+edu  varchar 20 
+higher varchar 20 
+higher2 varchar 20 
+skill varchar 20 
+skill2 varchar 20 
+skill3 varchar 20 
+skill4 varchar 20 
+skill5 varchar 20 
+skill6 varchar 20 
+other varchar 20  
+other2 varchar 20 
+otherdes varchar 400 
+otherdes2 varchar 400 
+aoe  varchar 20 
+aoe2 varchar 20 
+aoe3 varchar 20 
+aoe4 varchar 20 
+aoe5 varchar 20 
+aoe6 varchar 20 
